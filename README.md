@@ -15,13 +15,13 @@ Neste processo eu aprendi:
 * ✅ Refatoração de código legado
 
 ## REGRAS DO DESAFIO
-- [X] Realizar um fork do repositório do desafio
-- [X] Refatorar os métodos
-- [X] Promover baixo acoplamento entre as partes
+- [ ✅ ] Realizar um fork do repositório do desafio
+- [ ✅ ] Refatorar os métodos
+- [ ✅ ] Promover baixo acoplamento entre as partes
 
 ## Sobre o Caça aos Bugs
 O desafio **Caça aos Bugs 2025** consiste em encontrar bugs e sugerir melhorias para aplicações em cenários reais. Durante os 9 desafios desta jornada, os participantes são submetidos ao aprendizado e prática de Depuração de Aplicações, Testes de Unidade, Testes E2E, Melhorias de UI, Melhorias de Performance, Deployment e Infraestrutura,
 Banco de Dados.
 
 ### Veja meu progresso no desafio
-[Incluir link para o repositório central]
+https://github.com/Madusalves/balta
