@@ -1,6 +1,11 @@
 namespace BugStore.Responses.Products;
 
-public class Update
+public class UpdateProductResponse
 {
-    
+    public Guid Id { get; set; }
+    public string Title { get; set; } = string.Empty;
+    public string Description { get; set; } = string.Empty;
+    public string Slug { get; set; } = string.Empty;
+    public decimal Price { get; set; }
+    public string Message { get; set; } = "Product updated successfully";
 }

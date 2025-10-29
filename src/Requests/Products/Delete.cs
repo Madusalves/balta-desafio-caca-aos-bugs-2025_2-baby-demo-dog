@@ -1,6 +1,6 @@
 namespace BugStore.Requests.Products;
 
-public class Delete
+public class DeleteProductRequest
 {
-    
+    public bool Confirm { get; set; } = true;
 }
